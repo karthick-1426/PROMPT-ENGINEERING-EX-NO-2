@@ -268,7 +268,7 @@ Positive Dominance with notable negative concerns.
 
 ---
 
-# 📈 Performance Comparison
+#  Performance Comparison
 
 | Platform | Prompt Type      | Accuracy | Consistency | Interpretability | Speed | UX | Total (/25) |
 | -------- | ---------------- | -------- | ----------- | ---------------- | ----- | -- | ----------- |
@@ -283,7 +283,7 @@ Positive Dominance with notable negative concerns.
 
 ---
 
-# ✅ Result
+#  Result
 
 The analysis shows that **ChatGPT** and **Claude** provide the most accurate and interpretable sentiment analysis results.
 
@@ -296,15 +296,15 @@ The analysis shows that **ChatGPT** and **Claude** provide the most accurate and
 
 ### Best Performing Techniques
 
-🥇 Chain-of-Thought Prompting
+ Chain-of-Thought Prompting
 
-🥇 Role-Based Prompting
+ Role-Based Prompting
 
 These techniques achieved the highest overall scores for sentiment classification tasks.
 
 ---
 
-# 📚 Conclusion
+#  Conclusion
 
 This experiment demonstrates that prompt engineering significantly influences AI performance in sentiment analysis.
 
